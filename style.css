@@ -1,0 +1,7 @@
+body {
+  background: url(background.jpg), black;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  font-family: "HarmonyOS Sans Medium";
+}
